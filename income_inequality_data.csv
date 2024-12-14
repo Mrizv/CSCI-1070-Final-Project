@@ -5,9 +5,9 @@ Area Name,Area Type,Median Income,Population Density (per square mile)
 "Hamilton County, New York",Rural,66891,3
 "Los-Angeles-Long Beach-Anaheim, California",Urban,86587,2637
 "Alpine County, California",Rural,101125,2
-"Philadelphia County, Pennsylvania",Urban,"60,302","11,749"
-"Forest County, Pennsylvania",Rural,"50,061",15
-"Wayne County, Michigan",Urban,"57,281","2,700"
+"Philadelphia County, Pennsylvania",Urban,60302,11749
+"Forest County, Pennsylvania",Rural,60061,15
+"Wayne County, Michigan",Urban,57281,2700
 "Baraga County, Michigan",Rural,55117,8.27
-"King County, Washington",Urban,"120,824",980
-"Garfield County, Washington",Rural,"62,411",3.2
+"King County, Washington",Urban,120824,980
+"Garfield County, Washington",Rural,62411,3.2
